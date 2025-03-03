@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mianshahid0323&label=Profile%20views&color=0e75b6&style=flat" alt="mianshahid0323" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mianshahid0323" alt="mianshahid0323" /></a> </p>
-
 - 🔭 I’m currently working on [Entertainment](https://shahid.mbc.net)
 
 - 👯 I’m looking to collaborate on [WebGuard](www.webguard-demo.com)
@@ -30,6 +28,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shahidkhan011"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shahidkhan011" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mianshahid0323&show_icons=true&locale=en&layout=compact" alt="mianshahid0323" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mianshahid0323&show_icons=true&locale=en" alt="mianshahid0323" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mianshahid0323&show_icons=true&locale=en&layout=compact" alt="mianshahid0323" /></p>
